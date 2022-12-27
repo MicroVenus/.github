@@ -2,15 +2,15 @@
 
 ## Pasos para desarrollo
 
-| Paso              | Entra       | Sale          |
-|-------------------|-------------|---------------|
-| Factibilidad      | Idea        | E             |
-| Viabilidad        |             | T             |
-| Financiación      | Square Enix | T             |
-| Requerimientos    | Epic Games  | M             |
-| SCRUM             | Epic Games  | M             |
-| Testing           | Epic Games  | M             |
-| Desarrollo        | Epic Games  | M             |
+| Paso              | Entra            | Sale          |
+|-------------------|------------------|---------------|
+| Factibilidad      | Idea             | E             |
+| Viabilidad        |                  | T             |
+| Financiación      | Precio prototipo | T             |
+| Requerimientos    | Epic Games       | M             |
+| SCRUM             | Epic Games       | M             |
+| Testing           | Epic Games       | M             |
+| Desarrollo        | Epic Games       | M             |
 
 <!--
 
