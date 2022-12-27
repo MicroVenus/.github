@@ -4,8 +4,8 @@
 
 | Paso              | Entra       | Sale          |
 |-------------------|-------------|---------------|
-| Factibilidad      | Nintendo    | E             |
-| Viabilidad        | Atlus       | T             |
+| Factibilidad      | Idea        | E             |
+| Viabilidad        |             | T             |
 | Financiación      | Square Enix | T             |
 | Requerimientos    | Epic Games  | M             |
 | SCRUM             | Epic Games  | M             |
