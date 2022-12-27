@@ -4,10 +4,13 @@
 
 | Paso              | Entra       | Sale          |
 |-------------------|-------------|---------------|
-| Animal Crossing   | Nintendo    | E             |
-| Persona 5         | Atlus       | T             |
-| Final Fantasy VII | Square Enix | T             |
-| Fortnite          | Epic Games  | M             |
+| Factibilidad      | Nintendo    | E             |
+| Viabilidad        | Atlus       | T             |
+| Financiación      | Square Enix | T             |
+| Requerimientos    | Epic Games  | M             |
+| SCRUM             | Epic Games  | M             |
+| Testing           | Epic Games  | M             |
+| Desarrollo        | Epic Games  | M             |
 
 <!--
 
