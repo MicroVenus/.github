@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-## Tabla 1
+## Pasos para desarrollo
 
-| Juego             | Compañia    | Clasificacion | Precio (MXN) |
-|-------------------|-------------|---------------|--------------|
-| Animal Crossing   | Nintendo    | E             | 1600         |
-| Persona 5         | Atlus       | T             | 1500         |
-| Final Fantasy VII | Square Enix | T             | 1500         |
-| Fortnite          | Epic Games  | M             | 0            |
+| Paso              | Entra       | Sale          |
+|-------------------|-------------|---------------|
+| Animal Crossing   | Nintendo    | E             |
+| Persona 5         | Atlus       | T             |
+| Final Fantasy VII | Square Enix | T             |
+| Fortnite          | Epic Games  | M             |
 
 <!--
 
