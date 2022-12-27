@@ -7,7 +7,7 @@
 | Factibilidad      | Idea             | E             |
 | Viabilidad        |                  | T             |
 | Financiación      | Precio prototipo | T             |
-| Requerimientos    | Epic Games       | M             |
+| Requerimientos    | Idea             | M             |
 | SCRUM             | Epic Games       | M             |
 | Testing           | Epic Games       | M             |
 | Desarrollo        | Epic Games       | M             |
