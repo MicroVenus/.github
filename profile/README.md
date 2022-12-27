@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-##Tabla 1
+## Tabla 1
+
+| Cabecera 1 | Cabecera 2|
 
 <!--
 
