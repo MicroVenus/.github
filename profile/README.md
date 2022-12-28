@@ -14,26 +14,17 @@
 
 ## GitHub template
 
-| Nombre de la carpeta | Uso              | Sale                                       |
-|----------------------|------------------|--------------------------------------------|
-| DOC                  | Administración   | ¿Es posible?                               |
-| ^^                   | Administración   | ¿Es posible?                               |
-| FW                   |                  | ¿Cúanto cuesta?¿Hay alguien que lo compre? |
-| HW                   | Precio prototipo | ¿Cómo lo pagamos?                          |
-| SW                   | Idea             | Documento detallado                        |
+| Nombre de la carpeta | Uso              | Contenido                                     |
+|----------------------|------------------|-----------------------------------------------|
+| DOC                  | Producción       | Gerber, BOM, binarios, ensamble               |
+| DOC                  | Administración   | Requerimientos, normativa, plantilla reportes |
+| DOC                  | Etc              | Documentación extra                           |
+| FW                   | Proyecto         | Plantilla firmware                            |
+| HW                   | Simulaciones     | Esquematicos, KiCad, Inventor                 |
+| SW                   | Frontend         | Pagina para el usuario                        |
+| SW                   | Backend          | Codigo de la pagina                           |
+| Tst                  | testing          |                                               |
 
-## example
-
-|               |          Grouping             ||         Grouping 2         ||  Not Grouped    |
-| First Header  | Second Header | Third Header   | Forth Header | Fifth Header | Sixth Header    |
-| ------------- | :-----------: | -------------: | :----------: | :----------: | --------------- |
-| Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
-| ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
-| ^^            |               | 1. second item |              | 1. forth item | + second point |
-
-| New section   |     More      |         Data   | ... - -- --- |||
-| And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
-[Compicated table]
 
 <!--
 
