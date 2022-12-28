@@ -2,15 +2,15 @@
 
 ## Pasos para desarrollo
 
-| Paso              | Entra            | Sale          |
-|-------------------|------------------|---------------|
-| Factibilidad      | Idea             | E             |
-| Viabilidad        |                  | T             |
-| Financiación      | Precio prototipo | T             |
-| Requerimientos    | Idea             | M             |
-| SCRUM             | Epic Games       | M             |
-| Testing           | Epic Games       | M             |
-| Desarrollo        | Epic Games       | M             |
+| Paso              | Entra            | Sale                                       |
+|-------------------|------------------|--------------------------------------------|
+| Factibilidad      | Idea             | ¿Es posible?                               |
+| Viabilidad        |                  | ¿Cúanto cuesta?¿Hay alguien que lo compre? |
+| Financiación      | Precio prototipo | ¿Cómo lo pagamos?                          |
+| Requerimientos    | Idea             | Documento detallado                        |
+| SCRUM             |                  | Roles y sprits                             |
+| Testing           | Requerimientos   | Test a pasar                               |
+| Desarrollo        | Requerimientos   | MVP                                        |
 
 <!--
 
