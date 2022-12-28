@@ -16,8 +16,8 @@
 
 | Nombre de la carpeta | Uso              | Sale                                       |
 |----------------------|------------------|--------------------------------------------|
-|                     || Administración   | ¿Es posible?                               |
 | DOC                  | Administración   | ¿Es posible?                               |
+| ^^                   | Administración   | ¿Es posible?                               |
 | FW                   |                  | ¿Cúanto cuesta?¿Hay alguien que lo compre? |
 | HW                   | Precio prototipo | ¿Cómo lo pagamos?                          |
 | SW                   | Idea             | Documento detallado                        |
