@@ -27,16 +27,16 @@
 
 ## GitHub commits
 
-| Commit               | Descripción                                   |
-|----------------------|-----------------------------------------------|
-| [INITIAL COMMIT]     | Gerber, BOM, binarios, ensamble               |
-| DOC                  | Requerimientos, normativa, plantilla reportes |
-| DOC                  | Documentación extra                           |
-| FW                   | Plantilla firmware                            |
-| HW                   | Esquematicos, KiCad, Inventor                 |
-| SW                   | Pagina para el usuario                        |
-| SW                   | Codigo de la pagina                           |
-| Tst                  |                                               |
+| Commit                       | Descripción                                   |
+|------------------------------|-----------------------------------------------|
+| [INITIAL COMMIT]             | Copia de plantilla pata nuevo proyecto        |
+| [INITIAL COMMIT ON X BRANCH] | Copia del repo. para nueva rama               |
+| [DOC]                        | Documentación                                 |
+| [ADD]                        | Añadir codigo                                 |
+| [DELETE]                     | Eliminar codigo                               |
+| [OPTIMIZATE]                 | Optimizar codigo                              |
+| [FEATURE]                    |                                               |
+| [FIX]                        | Arreglar codigo                               |
 
 
 <!--
