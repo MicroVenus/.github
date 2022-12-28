@@ -25,6 +25,19 @@
 | SW                   | Backend          | Codigo de la pagina                           |
 | Tst                  | testing          |                                               |
 
+## GitHub commits
+
+| Commit               | Descripción                                   |
+|----------------------|-----------------------------------------------|
+| [INITIAL COMMIT]     | Gerber, BOM, binarios, ensamble               |
+| DOC                  | Requerimientos, normativa, plantilla reportes |
+| DOC                  | Documentación extra                           |
+| FW                   | Plantilla firmware                            |
+| HW                   | Esquematicos, KiCad, Inventor                 |
+| SW                   | Pagina para el usuario                        |
+| SW                   | Codigo de la pagina                           |
+| Tst                  |                                               |
+
 
 <!--
 
