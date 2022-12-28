@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ## Pasos para desarrollo
 
@@ -11,6 +11,15 @@
 | SCRUM             |                  | Roles y sprits                             |
 | Testing           | Requerimientos   | Test a pasar                               |
 | Desarrollo        | Requerimientos   | MVP                                        |
+
+## GitHub template
+
+| Nombre de la carpeta | Uso              | Sale                                       |
+|----------------------|------------------|--------------------------------------------|
+| DOC                  | Administración   | ¿Es posible?                               |
+| FW                   |                  | ¿Cúanto cuesta?¿Hay alguien que lo compre? |
+| HW                   | Precio prototipo | ¿Cómo lo pagamos?                          |
+| SW                   | Idea             | Documento detallado                        |
 
 <!--
 
