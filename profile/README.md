@@ -21,6 +21,7 @@
 | FW                   |                  | ¿Cúanto cuesta?¿Hay alguien que lo compre? |
 | HW                   | Precio prototipo | ¿Cómo lo pagamos?                          |
 | SW                   | Idea             | Documento detallado                        |
+[Compicated table]
 
 <!--
 
