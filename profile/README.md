@@ -8,7 +8,7 @@
 | Viabilidad        |                  | ¿Cúanto cuesta?¿Hay alguien que lo compre? |
 | Financiación      | Precio prototipo | ¿Cómo lo pagamos?                          |
 | Requerimientos    | Idea             | Documento detallado                        |
-| SCRUM             |                  | Roles y sprits                             |
+| SCRUM             |                  | Roles y sprints                             |
 | Testing           | Requerimientos   | Test a pasar                               |
 | Desarrollo        | Requerimientos   | MVP                                        |
 
@@ -35,7 +35,7 @@
 | [ADD]                        | Añadir codigo                                 |
 | [DELETE]                     | Eliminar codigo                               |
 | [OPTIMIZATE]                 | Optimizar codigo                              |
-| [FEATURE]                    |                                               |
+| [FEATURE]                    | Agregar nueva caracterisitica                 |
 | [FIX]                        | Arreglar codigo                               |
 
 
